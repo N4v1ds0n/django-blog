@@ -1,0 +1,5 @@
+# gitignore file to avoid passing venv and sensitive files to github
+# Python virtual environment
+venv/ 
+# Python cache files
+__pycache__/
